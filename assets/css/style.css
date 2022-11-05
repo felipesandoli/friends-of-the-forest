@@ -16,6 +16,7 @@
 
 body {
     font-family: jost, sans-serif;
+    margin-bottom: 150px;
 }
 
 /* header, logo and navigation menu */
@@ -78,6 +79,7 @@ header {
     overflow: hidden;
     position: relative;
     margin: 0;
+    clear: both;
 }
 
 #about-us h2 {

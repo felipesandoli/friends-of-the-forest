@@ -1,5 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap')
+
 :root {
     --dark-green: #537A42;
     --light-green: #AAFA88;
     --white-green: #DFFBD3;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: jost, sans-serif;
 }

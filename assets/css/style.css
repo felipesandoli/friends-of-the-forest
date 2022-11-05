@@ -49,7 +49,23 @@ header {
 
 #logo {
     height: auto;
-    width: 33%;
+    width: 100%;
     margin: 0 auto;
-    padding: 30px;
+    padding: 15px;
+}
+
+#navigation-menu {
+    font-size: 200%;
+    text-align: center;
+}
+
+#navigation-menu a {
+    color: var(--white-green);
+    text-decoration: none;
+    font-size: 50%;
+    padding: 0 15px;
+}
+
+#navigation-menu a:hover {
+    border-bottom: 1px solid var(--white-green);
 }

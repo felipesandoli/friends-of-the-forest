@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
 
 :root {
     --dark-green: #537A42;
     --light-green: #AAFA88;
     --white-green: #DFFBD3;
 }
+
+
 
 * {
     margin: 0;
@@ -14,4 +16,40 @@
 
 body {
     font-family: jost, sans-serif;
+}
+
+/* header, logo and navigation menu */
+
+header {
+    width: 100%;
+    height: 300px;
+    background-color: var(--dark-green);
+    position: relative;
+}
+
+#logo h2, h4 {
+    text-transform: uppercase;
+    color: var(--white-green);
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+#logo h2 {
+    font-size: 180%;
+}
+
+#logo img {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+    height: auto;
+    width: 33%;
+    margin: 0 auto;
+    padding: 30px;
 }

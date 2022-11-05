@@ -69,6 +69,42 @@ header {
     border-bottom: 1px solid var(--white-green);
 }
 
+/* About Us section */
+
+#about-us {
+    height: 600px;
+    background: url('/assets/images/forest.jpg') no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+    margin: 0;
+}
+
+#about-us h2 {
+    letter-spacing: 5px;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+
+#about-us p {
+    text-align: justify;
+    padding: 15px;
+    margin: 0;
+}
+
+#about-us > div {
+    width: 600px;
+    height: 400px;
+    background-color: var(--white-green);
+    color: var(--dark-green);
+    position: absolute;
+    padding: 0;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -300px;
+}
+
 /* footer, contact us and social media links */
 
 footer {

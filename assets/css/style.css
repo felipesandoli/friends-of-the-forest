@@ -83,8 +83,10 @@ header {
 }
 
 #about-us h2 {
+    text-transform: uppercase;
     letter-spacing: 5px;
     text-align: center;
+    font-weight: 500px;
     padding: 30px;
     margin: 0;
 }
@@ -177,9 +179,6 @@ footer li a {
     margin: 30px;
     background-color: var(--dark-green);
     color: var(--white-green);
+    height: 15%;
     clear: both;
-}
-
-.float-right {
-    float: right;
 }

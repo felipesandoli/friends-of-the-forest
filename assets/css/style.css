@@ -162,6 +162,8 @@ footer li a {
 #why-section {
     background-color: var(--white-green);
     height: 600px;
+    width: 100%;
+    position: relative;
 }
 
 #why-section h2 {
@@ -173,12 +175,14 @@ footer li a {
     padding: 30px;
 }
 
-#why-section div {
-    width: 66%;
+#why-section p {
     padding: 15px 30px;
     margin: 30px;
     background-color: var(--dark-green);
     color: var(--white-green);
-    height: 15%;
-    clear: both;
+}
+
+#why-section div {
+    width: 66%;
+    margin: 0 auto;
 }

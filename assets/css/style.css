@@ -154,3 +154,32 @@ footer li a {
     color: var(--white-green);
     font-size: 150%;
 }
+
+/*  Why Agroforestry section */
+
+#why-section {
+    background-color: var(--white-green);
+    height: 600px;
+}
+
+#why-section h2 {
+    text-transform: uppercase;
+    color: var(--dark-green);
+    text-align: center;
+    font-weight: 500px;
+    letter-spacing: 5px;
+    padding: 30px;
+}
+
+#why-section div {
+    width: 66%;
+    padding: 15px 30px;
+    margin: 30px;
+    background-color: var(--dark-green);
+    color: var(--white-green);
+    clear: both;
+}
+
+.float-right {
+    float: right;
+}

@@ -76,6 +76,7 @@ header {
     height: 600px;
     background: url('../images/forest.jpg') no-repeat center center;
     background-size: cover;
+    background-color: var(--dark-green);
     overflow: hidden;
     position: relative;
     margin: 0;

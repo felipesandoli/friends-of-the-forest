@@ -236,6 +236,13 @@ footer > a {
     left: 30px;
 }
 
+footer > a:hover {
+    background-color: var(--dark-green);
+    color: var(--white-green);
+    border: 1.5px solid var(--white-green);
+    border-radius: 3px;
+}
+
 footer ul {
     float: right;
     position: fixed;

@@ -144,7 +144,7 @@ header {
 
 #know-more {
     background-color: var(--white-green);
-    height: 1200px;
+    height: 1100px;
     width: 100%;
     position: relative;
 }
@@ -164,12 +164,12 @@ header {
     text-align: center;
     font-weight: 500px;
     letter-spacing: 5px;
-    padding: 30px;
+    padding: 45px;
     clear: both;
 }
 
 #know-more iframe {
-    margin: 0 auto;
+    margin: 15px auto;
     display: block;
 }
 

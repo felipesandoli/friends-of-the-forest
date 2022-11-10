@@ -165,11 +165,45 @@ header {
     font-weight: 500px;
     letter-spacing: 5px;
     padding: 30px;
+    clear: both;
 }
 
 #know-more iframe {
     margin: 0 auto;
     display: block;
+}
+
+#outer-div {
+    height: 330px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#outer-div p {
+    padding: 15px;
+    text-align: justify;
+}
+
+#outer-div a {
+    color: var(--white-green);
+    text-decoration: none;
+    padding: 0;
+    margin: 15px;
+    display: block;
+    text-align: center;
+}
+
+#outer-div a:hover {
+    border-bottom: 1px solid var(--white-green);
+}
+
+#outer-div div {
+    background-color: var(--dark-green);
+    color: var(--white-green);
+    width: 25%;
+    float: left;
+    height: 300px;
+    margin: 4.16%;
 }
 
 /* footer, contact us and social media links */
@@ -212,7 +246,7 @@ footer ul {
 footer li {
     display: inline;
     padding: 15px;
-    
+    margin: 0;
 }
 
 footer li a {

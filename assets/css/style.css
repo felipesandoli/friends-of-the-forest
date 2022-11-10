@@ -197,7 +197,16 @@ footer li a {
     position: relative;
 }
 
-#know-more h2, h4 {
+#know-more h2 {
+    text-transform: uppercase;
+    color: var(--dark-green);
+    text-align: center;
+    font-weight: 500px;
+    letter-spacing: 5px;
+    padding: 30px;
+}
+
+#know-more h4 {
     text-transform: uppercase;
     color: var(--dark-green);
     text-align: center;

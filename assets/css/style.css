@@ -187,3 +187,26 @@ footer li a {
     width: 66%;
     margin: 0 auto;
 }
+
+/* Want to know more section */
+
+#know-more {
+    background-color: var(--white-green);
+    height: 1200px;
+    width: 100%;
+    position: relative;
+}
+
+#know-more h2, h4 {
+    text-transform: uppercase;
+    color: var(--dark-green);
+    text-align: center;
+    font-weight: 500px;
+    letter-spacing: 5px;
+    padding: 30px;
+}
+
+#know-more iframe {
+    margin: 0 auto;
+    display: block;
+}

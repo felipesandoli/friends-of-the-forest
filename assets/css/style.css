@@ -209,40 +209,40 @@ footer {
     bottom: 0;
     left: 0;
     clear: both;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 footer img {
     width: 75px;
     height: 75px;
-    display: block;
-    margin: 0 auto;
-    margin-top: 37.5px;
 }
 
-footer > a {
-    background-color: var(--white-green);
+#contact-us a {
     color: var(--dark-green);
-    padding: 5px 15px;
     text-decoration: none;
+}
+
+#contact-us {
+    background-color: var(--white-green);
+    padding: 5px 15px;
     border: 1.5px solid var(--dark-green);
     border-radius: 3px;
-    position: fixed;
-    bottom: 60px;
-    left: 30px;
+    width: 100px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
 }
 
-footer > a:hover {
-    background-color: var(--dark-green);
+#contact-us a:hover {
     color: var(--white-green);
+}
+
+#contact-us:hover {
+    background-color: var(--dark-green);
     border: 1.5px solid var(--white-green);
     border-radius: 3px;
-}
-
-footer ul {
-    float: right;
-    position: fixed;
-    right: 30px;
-    bottom: 50px;
 }
 
 footer li {

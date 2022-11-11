@@ -50,18 +50,6 @@ header {
     margin-right: auto;
 }
 
-/* #logo {
-    height: auto;
-    width: 100%;
-    margin: 0 auto;
-    padding: 15px 0;
-}
-
-#navigation-menu {
-    font-size: 100%;
-    text-align: center;
-} */
-
 #navigation-menu a {
     color: var(--white-green);
     text-decoration: none;

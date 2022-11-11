@@ -72,7 +72,7 @@ header {
 
 #about-us {
     height: 600px;
-    background: url('../images/forest.jpg') no-repeat center center;
+    background: url('../images/forest.avif') no-repeat center center;
     background-size: cover;
     background-color: var(--dark-green);
     overflow: hidden;

@@ -6,8 +6,6 @@
     --white-green: #DFFBD3;
 }
 
-
-
 * {
     margin: 0;
     padding: 0;
@@ -17,6 +15,7 @@
 body {
     font-family: jost, sans-serif;
     margin-bottom: 150px;
+    position: relative;
 }
 
 /* header, logo and navigation menu */
@@ -52,7 +51,7 @@ header {
     height: auto;
     width: 100%;
     margin: 0 auto;
-    padding: 15px;
+    padding: 15px 0;
 }
 
 #navigation-menu {
@@ -214,6 +213,7 @@ footer {
     background-color: var(--dark-green);
     position: fixed;
     bottom: 0;
+    left: 0;
 }
 
 footer img {

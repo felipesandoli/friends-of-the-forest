@@ -321,6 +321,10 @@ footer li a {
         justify-content: space-around;
         flex-wrap: nowrap;
     }
+    
+    #navigation-menu a {
+        padding: 5px;
+    }
 
     /* Resize header for mobiles */
     header {

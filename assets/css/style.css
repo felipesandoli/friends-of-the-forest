@@ -104,9 +104,11 @@ header {
 
 #why-section {
     background-color: var(--white-green);
-    height: 600px;
     width: 100%;
-    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #why-section h2 {
@@ -116,6 +118,7 @@ header {
     font-weight: 500px;
     letter-spacing: 5px;
     padding: 30px;
+    flex-shrink: 2;
 }
 
 #why-section p {
@@ -123,11 +126,11 @@ header {
     margin: 30px;
     background-color: var(--dark-green);
     color: var(--white-green);
+    flex-shrink: 2;
 }
 
 #why-section div {
     width: 66%;
-    margin: 0 auto;
 }
 
 /* Want to know more section */

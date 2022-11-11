@@ -255,3 +255,43 @@ footer li a {
     color: var(--white-green);
     font-size: 150%;
 }
+
+/* Media Queries */
+
+/* for screen sizes smaller than 1200px wide */
+@media screen and (max-width: 1200px) {
+    /* Increase width of paragraphs parent container in why agroforestry section */
+    #why-section div {
+        width: 75%;
+    }
+
+    /* Style know-more section to change to column and resizes children of #outer-div */
+    #outer-div {
+        width: 75%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    #outer-div div {
+        min-height: 30px;
+        width: 100%;
+        padding: 15px;
+        margin: 30px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #outer-div a {
+        min-width: 100px;
+        text-align: center;
+    }
+
+    /* Resize Iframe */
+    #know-more iframe {
+        width: 504px;
+        height: 283px;
+    }
+}
+

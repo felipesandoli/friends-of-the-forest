@@ -53,6 +53,18 @@ The user can get to know how a family run farm is implementing agroforestry prac
 
 ## 2.3. Design
 
+The website was design to have most of the content on the homepage. For this to work, a simple minimalistic design was necessary. To draw attention text content are inserted in boxes contrasting with the background.
+
+The color green was chosen to match the forest theme and the image in the about us section. To define the colors and ensure high contast between the two main colors used throughout the website, the color wheel feature from adobe website was used with the monocromatic color harmony rule.
+
+![Color Scheme](docs/project-overview/color-pallet.png)
+
+Only the first two colors were used to guarantee a simple, minimalistc style.
+
+For a distinct feel, the About Us section was placed over a background image of a forest, maintaining the color scheme of the rest of the website.
+
+The "Why Agroforestry?" and "Want to Know More?" sections were both divided in three parts to maintain balance, and to avoid repetition, the first was divided vertically while the second was divided horizontally. 
+
 # 2. Features
 
 ## 2.1 Header, Nav, Logo and Favicon

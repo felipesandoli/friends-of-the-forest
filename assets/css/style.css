@@ -118,7 +118,6 @@ header {
     font-weight: 500px;
     letter-spacing: 5px;
     padding: 30px;
-    flex-shrink: 2;
 }
 
 #why-section p {
@@ -126,7 +125,6 @@ header {
     margin: 30px;
     background-color: var(--dark-green);
     color: var(--white-green);
-    flex-shrink: 2;
 }
 
 #why-section div {

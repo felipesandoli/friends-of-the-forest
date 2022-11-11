@@ -63,7 +63,9 @@ Only the first two colors were used to guarantee a simple, minimalistc style.
 
 For a distinct feel, the About Us section was placed over a background image of a forest, maintaining the color scheme of the rest of the website.
 
-The "Why Agroforestry?" and "Want to Know More?" sections were both divided in three parts to maintain balance, and to avoid repetition, the first was divided vertically while the second was divided horizontally. 
+The "Why Agroforestry?" and "Want to Know More?" sections were both divided in three parts to maintain balance, and to avoid repetition, the first was divided vertically while the second was divided horizontally.
+
+Jost font from Google fonts was used throughout the whole website with a fallback to sans-serif.
 
 # 2. Features
 

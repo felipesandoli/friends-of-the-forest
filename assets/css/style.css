@@ -339,6 +339,12 @@ footer li a {
     border-radius: 3px;
 }
 
+/* Style newsletter form */
+
+.newsletter-container h2 {
+    padding: 45px;
+}
+
 /* Media Queries */
 
 /* for screen sizes smaller than 1200px wide */

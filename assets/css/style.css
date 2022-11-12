@@ -90,7 +90,7 @@ header {
 
 #about-us > div {
     width: 33%;
-    height: 600px;
+    min-height: 600px;
     background-color: var(--white-green);
     color: var(--dark-green);
     padding: 0;

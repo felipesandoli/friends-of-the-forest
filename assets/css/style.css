@@ -259,6 +259,11 @@ footer li a {
 
 /* for screen sizes smaller than 1200px wide */
 @media screen and (max-width: 1200px) {
+    /* Increase width of container in about us section */
+    #about-us div {
+        width: 66%;
+    }
+    
     /* Increase width of paragraphs parent container in why agroforestry section */
     #why-section div {
         width: 75%;
@@ -338,5 +343,23 @@ footer li a {
         flex-direction: row;
         align-items: center;
         justify-content: space-around;
+    }
+
+    /* Increase width of elements for all sections */
+    #about-us div {
+        width: 80%;
+    }
+
+    #why-section div {
+        width: 85%;
+    }
+
+    #outer-div {
+        width: 85%;
+    }
+
+    #know-more iframe {
+        width: 252px;
+        height: 142px;
     }
 }

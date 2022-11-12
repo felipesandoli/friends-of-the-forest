@@ -31,7 +31,7 @@ header {
     align-items: center;
 }
 
-#logo h2, h4 {
+.logo h2, h4 {
     text-transform: uppercase;
     color: var(--white-green);
     text-align: center;
@@ -39,11 +39,11 @@ header {
     letter-spacing: 5px;
 }
 
-#logo h2 {
+.logo h2 {
     font-size: 180%;
 }
 
-#logo img {
+.logo img {
     width: 150px;
     height: 150px;
     display: block;
@@ -51,13 +51,13 @@ header {
     margin-right: auto;
 }
 
-#navigation-menu a {
+.navigation-menu a {
     color: var(--white-green);
     text-decoration: none;
     padding: 0 15px;
 }
 
-#navigation-menu a:hover {
+.navigation-menu a:hover {
     border-bottom: 1px solid var(--white-green);
 }
 
@@ -219,12 +219,12 @@ footer img {
     height: 75px;
 }
 
-#contact-us a {
+.contact-us a {
     color: var(--dark-green);
     text-decoration: none;
 }
 
-#contact-us {
+.contact-us {
     background-color: var(--white-green);
     padding: 5px 15px;
     border: 1.5px solid var(--dark-green);
@@ -235,11 +235,11 @@ footer img {
     justify-content: center;
 }
 
-#contact-us a:hover {
+.contact-us a:hover {
     color: var(--white-green);
 }
 
-#contact-us:hover {
+.contact-us:hover {
     background-color: var(--dark-green);
     border: 1.5px solid var(--white-green);
     border-radius: 3px;
@@ -386,22 +386,22 @@ footer li a {
 
 @media screen and (max-width: 800px) {
     /* hide slogan as shown in larger screens */
-    #logo h4 {
+    .logo h4 {
         display: none;
     }
 
     /* Resize logo elements to fit to new header size */
-    #logo h2 {
+    .logo h2 {
         font-size: 12px;
     }
 
-    #logo img {
+    .logo img {
         height: 30px;
         width: 30px;
         float: left;
     }
 
-    #navigation-menu {
+    .navigation-menu {
         font-size: 12px;
         display: flex;
         flex-direction: row;
@@ -409,7 +409,7 @@ footer li a {
         flex-wrap: nowrap;
     }
     
-    #navigation-menu a {
+    .navigation-menu a {
         padding: 5px;
     }
 
@@ -421,7 +421,7 @@ footer li a {
         justify-content: space-around;
     }
 
-    #logo {
+    .logo {
         display: flex;
         flex-direction: row;
         align-items: center;

@@ -22,23 +22,23 @@
         </nav>
     </header>
     <section class="form-section">
-        <div id="form-text">
-            <h2>Send us a message</h2>
-            <p>Want to get in touch? Send us a message by filling the form.</p>
-        </div>
-        <form action="https://formdump.codeinstitute.net/" method="post" id="contact-us-form">
-            <div class="name-inputs">    
-                <label for="fname">First Name</label>
-                <input type="text" name="first_name" id="fname" required>
-                <label for="lname">Last Name</label>
-                <input type="text" name="last_name" id="lname" required>
+        <div class="form-container">
+            <div id="form-text">
+                <h2>Send us a message</h2>
+                <p>Want to get in touch? Send us a message by filling the form.</p>
             </div>
-            <label for="email">Email Address</label>
-            <input type="email" name="email_address" id="email" required>
-            <label for="message">Your Message</label>
-            <input type="text" name="message" id="message" required>
-            <input type="submit" class="submit-button" name="Send">
-        </form>
+            <form action="https://formdump.codeinstitute.net/" method="post" id="contact-us-form">   
+                <label for="fname">First Name</label>
+                <input type="text" name="first_name" id="fname" class="text-input" required>
+                <label for="lname">Last Name</label>
+                <input type="text" name="last_name" id="lname" class="text-input" required>
+                <label for="email">Email Address</label>
+                <input type="email" name="email_address" id="email" class="text-input" required>
+                <label for="message">Your Message</label>
+                <textarea name="message" id="message" required></textarea>
+                <input type="submit" class="submit-button" value="Send">
+            </form>
+        </div>
     </section>
     <footer>
         <div id="contact-us"2>

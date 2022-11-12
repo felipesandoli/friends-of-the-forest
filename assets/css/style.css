@@ -15,6 +15,7 @@ body {
     font-family: jost, sans-serif;
     margin-bottom: 150px;
     position: relative;
+    background-color: var(--white-green);
 }
 
 /* header, logo and navigation menu */
@@ -253,6 +254,88 @@ footer li {
 footer li a {
     color: var(--white-green);
     font-size: 150%;
+}
+
+/* Contact Us form */
+
+.form-section {
+    background: var(--white-green);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.form-container {
+    background-color: var(--dark-green);
+    color: var(--white-green);
+    margin: 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#form-text h2 {
+    text-align: center;
+    padding: 15px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#form-text p {
+    padding: 30px;
+    text-align: justify;
+}
+
+#contact-us-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-us-form label {
+    padding: 5px;
+}
+
+.text-input {
+    background-color: var(--white-green);
+    color: var(--dark-green);
+    margin-right: 5px;
+    width: 150px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.text-input:focus {
+    outline: none;
+}
+
+#message {
+    background-color: var(--white-green);
+    color: var(--dark-green);
+    width: 300px;
+    height: 150px;
+    margin-right: 5px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+#message:focus {
+    outline: none;
+}
+
+.submit-button {
+    background-color: var(--white-green);
+    color: var(--dark-green);
+    border-radius: 3px;
+    margin: 15px 0;
+    height: 30px;
+    max-width: 75px;
+}
+
+.submit-button:hover {
+    background-color: var(--dark-green);
+    color: var(--white-green);
+    border: 1.5px solid var(--white-green);
+    border-radius: 3px;
 }
 
 /* Media Queries */

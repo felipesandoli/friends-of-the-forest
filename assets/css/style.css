@@ -63,14 +63,13 @@ header {
 /* About Us section */
 
 #about-us {
-    height: 600px;
     background: url('../images/forest.avif') no-repeat center center;
     background-size: cover;
     background-color: var(--dark-green);
     overflow: hidden;
-    position: relative;
     margin: 0;
-    clear: both;
+    display: flex;
+    justify-content: center;
 }
 
 #about-us h2 {
@@ -84,20 +83,20 @@ header {
 
 #about-us p {
     text-align: justify;
-    padding: 15px 30px;
+    padding: 15px 45px;
     margin: 0;
 }
 
 #about-us > div {
-    width: 600px;
-    height: 400px;
+    width: 33%;
+    height: 600px;
     background-color: var(--white-green);
     color: var(--dark-green);
-    position: absolute;
     padding: 0;
-    top: 50%;
-    left: 50%;
-    margin: -200px 0 0 -300px;
+    margin: 75px;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
 }
 
 /*  Why Agroforestry section */

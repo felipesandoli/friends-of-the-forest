@@ -233,6 +233,7 @@ footer img {
     height: 25px;
     display: flex;
     justify-content: center;
+    margin-left: 15px;
 }
 
 .contact-us a:hover {

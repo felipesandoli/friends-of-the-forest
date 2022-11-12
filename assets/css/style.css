@@ -168,7 +168,6 @@ header {
 
 #outer-div {
     width: 80%;
-    margin: 0 auto;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -438,7 +437,7 @@ footer li a {
 
     /* Increase width of elements for all sections */
     #about-us div {
-        width: 80%;
+        width: 85%;
     }
 
     #why-section div {
@@ -452,6 +451,20 @@ footer li a {
     #know-more iframe {
         width: 252px;
         height: 142px;
+    }
+
+    /* Resize paddings to reduce space between words */
+
+    #about-us p {
+        padding: 15px 5px;
+    }
+    
+    #why-section p {
+        padding: 15px 5px;
+    }
+
+    #know-more p {
+        padding: 15px 5px;
     }
 
     /* Resize message box in contact us form to fit mobile phones */

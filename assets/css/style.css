@@ -445,4 +445,11 @@ footer li a {
         width: 252px;
         height: 142px;
     }
+
+    /* Resize message box in contact us form to fit mobile phones */
+
+    #message {
+        width: 200px;
+        height: 100px;
+    }
 }

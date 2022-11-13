@@ -280,11 +280,13 @@ footer li a {
     padding: 15px;
     text-transform: uppercase;
     letter-spacing: 5px;
+    max-width: 300px;
 }
 
 .form-container p {
     padding: 30px;
     text-align: justify;
+    max-width: 300px;
 }
 
 .generic-form {

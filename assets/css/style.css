@@ -275,14 +275,14 @@ footer li a {
     align-items: center;
 }
 
-#form-text h2 {
+.form-container h2 {
     text-align: center;
     padding: 15px;
     text-transform: uppercase;
     letter-spacing: 5px;
 }
 
-#form-text p {
+.form-container p {
     padding: 30px;
     text-align: justify;
 }

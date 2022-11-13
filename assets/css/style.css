@@ -515,4 +515,11 @@ footer li a {
         width: 200px;
         height: 100px;
     }
+
+    /* Change flex direction of form container for all forms in mobiles */
+
+    .form-container {
+        flex-direction: column;
+        padding: 15px;
+    }
 }

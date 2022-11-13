@@ -20,6 +20,7 @@
 3. **[Testing](#3-testing)**<br>
 4. **[Deployment](#4-deployment)**<br>
 5. **[Credits](#5-credits)**<br>
+    5.1 **[Why Agroforestry Section Information](#51-why-agroforestry-section-information)**<br>
 
 # 1. Project Overview
 
@@ -92,4 +93,13 @@ Jost font from Google fonts was used throughout the whole website with a fallbac
 # 4. Deployment
 
 # 5. Credits
+
+## 5.1 Why Agroforestry Section Information
+
+The following sources were used to gather information for the Why Agroforestry section:
+
+[https://www.investopedia.com/...](https://www.investopedia.com/articles/investing/100615/4-countries-produce-most-food.asp#:~:text=The%20world's%20top%20four%20food,production%20plays%20in%20their%20economies.)<br>
+[https://g1.globo.com/...](https://g1.globo.com/economia/noticia/2022/07/06/mais-de-60-milhoes-de-brasileiros-sofrem-com-inseguranca-alimentar-diz-fao.ghtml)<br>
+[https://www.worldagroforestry.org/...](https://www.worldagroforestry.org/about/agroforestry)<br>
+[https://www.soilassociation.org/...](https://www.soilassociation.org/farmers-growers/technicalinformation/agroforestry-on-your-farm/agroforestry-and-farm-woodland-e-learning/)<br>
 

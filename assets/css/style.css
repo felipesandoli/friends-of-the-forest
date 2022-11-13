@@ -382,9 +382,13 @@ footer li a {
         text-align: center;
     }
 
-    /* Add text decoration to header navigation */
+    /* Add text decoration to header and know more links */
 
     .navigation-menu a {
+        text-decoration: underline;
+    }
+
+    #know-more a {
         text-decoration: underline;
     }
 

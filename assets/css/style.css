@@ -364,6 +364,17 @@ footer li a {
     outline: none;
 }
 
+/* Style checkboxes and relevant text for masterclass form */
+
+.generic-form p {
+    padding: 5px;
+}
+
+.checkbox-input {
+    accent-color: var(--white-green);
+    color: var(--dark-green);
+}
+
 /* Media Queries */
 
 /* for screen sizes smaller than 1200px wide */

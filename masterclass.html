@@ -21,7 +21,37 @@
             <a href="index.html" aria-label="go to the top of the page">Home</a>
         </nav>
     </header>
-
+    <section class="form-section">
+        <div class="form-container">
+            <h2>Register your interest for a Masterclass!</h2>
+            <form action="https://formdump.codeinstitute.net/" method="post" class="generic-form">   
+                <label for="fname">First Name</label>
+                <input type="text" name="first_name" id="fname" class="text-input" required>
+                <label for="lname">Last Name</label>
+                <input type="text" name="last_name" id="lname" class="text-input" required>
+                <label for="email">Email Address</label>
+                <input type="email" name="email_address" id="email" class="text-input" required>
+                <p>Topic of Interest (please select at least one)</p>
+                <div>
+                    <input type="checkbox" id="soil" name="soil-management" class="checkbox-input">
+                    <label for="soil">Soil Management</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="woodland" name="farm-woodland" class="checkbox-input">
+                    <label for="woodland">Farm Woodland</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="economics" name="economics-agroforestry" class="checkbox-input">
+                    <label for="economics">Economics of Agroforestry</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="planning" name="agroforestry-planning" class="checkbox-input">
+                    <label for="planning">Agroforestry Planning</label>
+                </div>
+                <input type="submit" class="submit-button" value="Send">
+            </form>
+        </div>
+    </section>
     <footer>
         <div class="contact-us"2>
             <a href="contact-us.html">Contact Us</a>

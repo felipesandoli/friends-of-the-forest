@@ -20,7 +20,8 @@
 3. **[Testing](#3-testing)**<br>
 4. **[Deployment](#4-deployment)**<br>
 5. **[Credits](#5-credits)**<br>
-    5.1 **[Why Agroforestry Section Information](#51-why-agroforestry-section-information)**<br>
+    5.1. **[Why Agroforestry Section Information](#51-why-agroforestry-section-information)**<br>
+    5.2. **[Flexbox Tutorial](#52-flexbox-tutorial)**<br>
 
 # 1. Project Overview
 
@@ -103,3 +104,8 @@ The following sources were used to gather information for the Why Agroforestry s
 [https://www.worldagroforestry.org/...](https://www.worldagroforestry.org/about/agroforestry)<br>
 [https://www.soilassociation.org/...](https://www.soilassociation.org/farmers-growers/technicalinformation/agroforestry-on-your-farm/agroforestry-and-farm-woodland-e-learning/)<br>
 
+## 5.2 Flexbox Tutorial
+
+The following tutorial was used to position the elements using flexbox:
+
+[https://css-tricks.com/...](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

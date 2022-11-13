@@ -51,7 +51,7 @@ The user can get to know how a family run farm is implementing agroforestry prac
 - As a site owner I want to provide more information about agroforestry.
 - As a site owner I want to provide a way for our users to book a stay at our farm.
 
-## 2.3. Design
+## 1.3. Design
 
 The website was design to have most of the content on the homepage. For this to work, a simple minimalistic design was necessary. To draw attention text content are inserted in boxes contrasting with the background.
 

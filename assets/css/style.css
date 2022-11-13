@@ -339,6 +339,18 @@ footer li a {
     border-radius: 3px;
 }
 
+/* Style check in and check out dates in stay with us form */
+
+#date {
+    display: flex;
+    flex-direction: row;
+}
+
+#date div {
+    display: flex;
+    flex-direction: column;
+}
+
 /* Media Queries */
 
 /* for screen sizes smaller than 1200px wide */

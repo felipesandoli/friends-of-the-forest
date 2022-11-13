@@ -351,6 +351,19 @@ footer li a {
     flex-direction: column;
 }
 
+.date-input {
+    background-color: var(--white-green);
+    color: var(--dark-green);
+    margin-right: 5px;
+    width: 100px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.date-input:focus {
+    outline: none;
+}
+
 /* Media Queries */
 
 /* for screen sizes smaller than 1200px wide */

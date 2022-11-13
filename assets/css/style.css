@@ -169,9 +169,14 @@ header {
     padding: 45px;
 }
 
+#know-more p {
+    color: var(--dark-green);
+    padding: 15px;
+    font-size: 75%;
+}
+
 #know-more iframe {
     display: block;
-    margin-bottom: 30px;
 }
 
 #outer-div {

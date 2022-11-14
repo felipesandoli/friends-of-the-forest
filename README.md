@@ -119,6 +119,10 @@ All pages were validated using the W3C Markup Validator. The first validation in
 
 ## 3.2. CSS Validator
 
+For validating the CSS, the style.css file was uploaded to the W3C Jigsaw Validation service. The first try indicated a value error for some font-weight properties. These were fixed and the CSS code passed the second validation.
+
+![CSS Validation Pass](docs/validation/css-validator-pass.png)
+
 # 4. Deployment
 
 # 5. Credits

@@ -95,6 +95,28 @@ Jost font from Google fonts was used throughout the whole website with a fallbac
 
 ## 3.1. HTML Validator
 
+All pages were validated using the W3C Markup Validator. The first validation indicated a few errors caused by a typo inside an element tag, the use of a styling attribute inside the iframe tag and a duplicated body closing tag. The errors were fixed and all pages passed validation afterwards.
+
+### Home Page
+
+![Home Page HTML Validation Pass](docs/validation/html-validator-index-pass.png)
+
+### Contact Us Page
+
+![Contact Us Page HTML Validation Pass](docs/validation/html-validator-contact-us-pass.png)
+
+### Stay With Us Page
+
+![Stay With Us Page HTML Validation Pass](docs/validation/html-validator-stay-with-us-pass.png)
+
+### Masterclass Page
+
+![Masterclass Page HTML Validation Pass](docs/validation/html-validator-masterclass-pass.png)
+
+### Newsletter Page
+
+![Newsletter Page HTML Validation Pass](docs/validation/html-validator-newsletter-pass.png)
+
 ## 3.2. CSS Validator
 
 # 4. Deployment

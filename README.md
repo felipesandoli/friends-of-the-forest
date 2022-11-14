@@ -62,11 +62,13 @@ The user can get to know how a family run farm is implementing agroforestry prac
 
 ## 1.3. Design
 
-The website was design to have most of the content on the homepage. For this to work, a simple minimalistic design was necessary. To draw attention text content are inserted in boxes contrasting with the background.
+For a clear understanding of the purpose of the website, it was designed to have most of the content on the homepage. For this to work, a simple minimalistic design was necessary. To draw attention text content are inserted in boxes contrasting with the background. The user can find relevant information and what is offered through scrolling down the page or following the navigation links provided in the header.
+
+Semantic markup was used to ensure a well structured page.
 
 The color green was chosen to match the forest theme and the image in the about us section. To define the colors and ensure high contast between the two main colors used throughout the website, the color wheel feature from adobe website was used with the monocromatic color harmony rule. Due to low contrast between text and background colors, spotted by using the Wave validator, the colors were slightly changed to increase contrast.
 
-Only the first two colors were used to guarantee a simple, minimalistc style.
+Media Queries were used to allow for the layout to adapt to all screen sizes maintaining the structural integrity of the website.
 
 For a distinct feel, the About Us section was placed over a background image of a forest, maintaining the color scheme of the rest of the website.
 

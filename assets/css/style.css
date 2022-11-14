@@ -77,7 +77,7 @@ header {
     text-transform: uppercase;
     letter-spacing: 5px;
     text-align: center;
-    font-weight: 500px;
+    font-weight: 600;
     padding: 30px;
     margin: 0;
 }
@@ -123,7 +123,7 @@ header {
     text-transform: uppercase;
     color: var(--dark-green);
     text-align: center;
-    font-weight: 500px;
+    font-weight: 600;
     letter-spacing: 5px;
     padding: 30px;
 }
@@ -155,7 +155,7 @@ header {
     text-transform: uppercase;
     color: var(--dark-green);
     text-align: center;
-    font-weight: 500px;
+    font-weight: 600;
     letter-spacing: 5px;
     padding: 30px;
 }
@@ -164,7 +164,7 @@ header {
     text-transform: uppercase;
     color: var(--dark-green);
     text-align: center;
-    font-weight: 500px;
+    font-weight: 600;
     letter-spacing: 5px;
     padding: 45px;
 }

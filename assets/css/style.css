@@ -534,7 +534,7 @@ footer li a {
         padding: 15px;
     }
 
-    /* Resize media links and contact us button in footer for mobiles */
+    /* Resize media links, logo image and contact us button in footer for mobiles */
     footer li {
         padding: 10px;
     }
@@ -548,5 +548,10 @@ footer li a {
         width: 75px;
         height: 20px;
         font-size: 90%;
-    }    
+    }
+    
+    footer img {
+        width: 50px;
+        height: 50px;
+    }
 }

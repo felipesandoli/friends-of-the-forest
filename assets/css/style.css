@@ -177,6 +177,8 @@ header {
 
 #know-more iframe {
     display: block;
+    width: 672px; 
+    height: 378px;
 }
 
 #outer-div {
@@ -428,7 +430,6 @@ footer li a {
     }
 
     /* Add text decoration to header and know more links */
-
     .navigation-menu a {
         text-decoration: underline;
     }
@@ -509,7 +510,6 @@ footer li a {
     }
 
     /* Resize paddings to reduce space between words */
-
     #about-us p {
         padding: 15px 5px;
     }
@@ -523,16 +523,30 @@ footer li a {
     }
 
     /* Resize message box in contact us form to fit mobile phones */
-
     #message {
         width: 200px;
         height: 100px;
     }
 
     /* Change flex direction of form container for all forms in mobiles */
-
     .form-container {
         flex-direction: column;
         padding: 15px;
     }
+
+    /* Resize media links and contact us button in footer for mobiles */
+    footer li {
+        padding: 10px;
+    }
+    
+    footer li a {
+        color: var(--white-green);
+        font-size: 125%;
+    }
+
+    .contact-us {
+        width: 75px;
+        height: 20px;
+        font-size: 90%;
+    }    
 }

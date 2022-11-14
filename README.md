@@ -151,6 +151,18 @@ Wave Accessibility Validator was used to ensure the website was up to the standa
 
 # 4. Deployment
 
+The website was developed using GitPod and deployed through GitHub Pages.
+For deploying with GitHub Pages the following steps were taken:
+
+1. Navigate to the repository in GitHub
+2. Select the Settings tab
+3. On the left navigation menu, under Code and Automation, select Pages
+4. Select Deploy from a branch under source
+5. Select the main branch
+6. After the pages reload, the link to the deployed page will show up at the top.
+
+You can see the GitHub repository by clicking [here](https://github.com/felipesandoli/friends-of-the-forest).
+
 # 5. Credits
 
 ## 5.1 Why Agroforestry Section Information

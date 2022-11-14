@@ -12,6 +12,7 @@ Developer: Carlos Felipe Capobianco Sandoli
     1.1. **[Project Objectives](#11-project-objective)**<br>
     1.2. **[User Stories](#12-user-stories)**<br>
     1.3. **[Design](#13-design)**<br>
+    1.4. **[Wireframes](#14-wireframes)**<br>
 2. **[Features](#2-features)**<br>
     2.1. **[Header, Nav, Logo and Favicon](#21-header-nav-logo-and-favicon)**<br>
     2.2. **[About Us section](#22-about-us-section)**<br>
@@ -77,6 +78,18 @@ For a distinct feel, the About Us section was placed over a background image of 
 The "Why Agroforestry?" and "Want to Know More?" sections were both divided in three parts to maintain balance, and to avoid repetition, the first was divided vertically while the second was divided horizontally.
 
 Jost font from Google fonts was used throughout the whole website with a fallback to sans-serif.
+
+## 1.4. Wireframes
+
+<details>
+    <summary>Home Page</summary>
+    <img>
+</details>
+
+<details>
+    <summary>Form Pages</summary>
+    <img>
+</details>
 
 # 2. Features
 

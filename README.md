@@ -24,6 +24,7 @@ Developer: Carlos Felipe Capobianco Sandoli
 3. **[Testing](#3-testing)**<br>
     3.1. **[HTML Validator](#31-html-validator)**<br>
     3.2. **[CSS Validator](#32-css-validator)**<br>
+    3.3. **[Accessibility Validator](#33-accessibility-validator)**<br>
 4. **[Deployment](#4-deployment)**<br>
 5. **[Credits](#5-credits)**<br>
     5.1. **[Why Agroforestry Section Information](#51-why-agroforestry-section-information)**<br>
@@ -63,9 +64,7 @@ The user can get to know how a family run farm is implementing agroforestry prac
 
 The website was design to have most of the content on the homepage. For this to work, a simple minimalistic design was necessary. To draw attention text content are inserted in boxes contrasting with the background.
 
-The color green was chosen to match the forest theme and the image in the about us section. To define the colors and ensure high contast between the two main colors used throughout the website, the color wheel feature from adobe website was used with the monocromatic color harmony rule.
-
-![Color Scheme](docs/project-overview/color-pallet.png)
+The color green was chosen to match the forest theme and the image in the about us section. To define the colors and ensure high contast between the two main colors used throughout the website, the color wheel feature from adobe website was used with the monocromatic color harmony rule. Due to low contrast between text and background colors, spotted by using the Wave validator, the colors were slightly changed to increase contrast.
 
 Only the first two colors were used to guarantee a simple, minimalistc style.
 
@@ -126,6 +125,12 @@ All pages were validated using the W3C Markup Validator. The first validation in
 For validating the CSS, the style.css file was uploaded to the W3C Jigsaw Validation service. The first try indicated a value error for some font-weight properties. These were fixed and the CSS code passed the second validation.
 
 ![CSS Validation Pass](docs/validation/css-validator-pass.png)
+
+## 3.3. Accessibility Validator
+
+Wave Accessibility Validator was used to ensure the website was up to the standards. Initially the page got a few errors due to little contrast between text and background colors. After changing the colors, the page passed validation with a few warnings due to heading hierarchy being skipped.
+
+![Accessibility Validation Pass](docs/validation/accessibility-wave-pass.png)
 
 # 4. Deployment
 

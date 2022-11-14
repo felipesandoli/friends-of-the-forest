@@ -2,6 +2,10 @@
 
 [Visit the live webpage](https://felipesandoli.github.io/friends-of-the-forest/)
 
+![Responsivity Mockup](docs/general-info/resnponsive-mockup.png)
+
+Developer: Carlos Felipe Capobianco Sandoli
+
 # Table of Content
 
 1. **[Project Overview](#1-project-overview)**<br>

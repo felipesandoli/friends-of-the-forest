@@ -18,6 +18,8 @@
         &emsp;2.4.3. **[Newsletter registration form](#243-newsletter-registration-form)**<br>
         &emsp;2.4.4. **[Video section](#244-video-section)**<br>
 3. **[Testing](#3-testing)**<br>
+    3.1. **[HTML Validator](#31-html-validator)**<br>
+    3.2. **[CSS Validator](#32-css-validator)**<br>
 4. **[Deployment](#4-deployment)**<br>
 5. **[Credits](#5-credits)**<br>
     5.1. **[Why Agroforestry Section Information](#51-why-agroforestry-section-information)**<br>
@@ -90,6 +92,10 @@ Jost font from Google fonts was used throughout the whole website with a fallbac
 ## 2.5 Footer, Contact Us and Social Media links
 
 # 3. Testing
+
+## 3.1. HTML Validator
+
+## 3.2. CSS Validator
 
 # 4. Deployment
 

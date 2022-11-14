@@ -38,6 +38,8 @@ The primary objective of the project is to promote agroforestry as a sustainable
 
 The user can get to know how a family run farm is implementing agroforestry practices visiting the farm or registering for a masterclass. The user can also understand why this is important and sign up for periodical news about the topic.
 
+The target audience is people that work or would like to work with agriculture and would like to do so in a sustainable way.
+
 ## 1.2. User Stories
 
 ### First time users

@@ -189,6 +189,17 @@ Wave Accessibility Validator was used to ensure the website was up to the standa
 
 ## 3.5. Manual Testing User Stories
 
+## 3.6. Bugs and Fixes
+
+Some bugs that were found and fixed throughout development:
+
+| **Bug** | **Fix** |
+| ------- | ------- |
+| Contact Us button text desappeared when hovering the border or padding | This was caused by placing the anchor element inside a div and styling the div as the button, when hovering the div, the background color changed, but not the text, as the anchor wasn't being hovered over. To fix this, the div element was removed and the anchor alone styled to be a button |
+| About Us section text outside going beyond the parent container in screens of smaller widhts | Caused by the fixed height set to the parent container. The fixed height was changed to min-height so the parent container can follow the size of the text inside it |
+| About us background image not loading | Caused by wrong file path. This was fixed by changing the file path to correctly follow the directory structure |
+
+
 # 4. Deployment
 
 The website was developed using GitPod and deployed through GitHub Pages.

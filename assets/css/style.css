@@ -234,31 +234,25 @@ footer img {
     height: 75px;
 }
 
-.contact-us a {
+.contact-us {
     color: var(--dark-green);
     text-decoration: none;
-}
-
-.contact-us {
+    text-align: center;
     background-color: var(--white-green);
     padding: 5px 15px;
     border: 1.5px solid var(--dark-green);
     border-radius: 3px;
     width: 100px;
     height: 25px;
-    display: flex;
-    justify-content: center;
+    display: block;
     margin-left: 15px;
-}
-
-.contact-us a:hover {
-    color: var(--white-green);
 }
 
 .contact-us:hover {
     background-color: var(--dark-green);
     border: 1.5px solid var(--white-green);
     border-radius: 3px;
+    color: var(--white-green);
 }
 
 footer li {

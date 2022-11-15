@@ -17,7 +17,7 @@ Developer: Carlos Felipe Capobianco Sandoli
     2.1. **[Header, Nav, Logo and Favicon](#21-header-nav-logo-and-favicon)**<br>
     2.2. **[About Us section](#22-about-us-section)**<br>
     2.3. **[Information section](#23-information-section)**<br>
-    2.4. **[Further Informaiton](#24-further-information)**<br>
+    2.4. **[Further Information](#24-further-information)**<br>
     2.5. **[Footer, Contact Us and Social Media links](#25-footer-contact-us-and-social-media-links)**<br>
     2.6. **[Form Pages](#26-form-pages)**<br>
 3. **[Testing](#3-testing)**<br>

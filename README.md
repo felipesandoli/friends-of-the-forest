@@ -83,12 +83,12 @@ Jost font from Google fonts was used throughout the whole website with a fallbac
 
 <details>
     <summary>Home Page</summary>
-    <img>
+    <img src="docs/wireframes/home-page.png">
 </details>
 
 <details>
     <summary>Form Pages</summary>
-    <img>
+    <img src="docs/wireframes/forms.png">
 </details>
 
 # 2. Features

@@ -485,6 +485,11 @@ footer li a {
         justify-content: space-around;
     }
 
+    /* Resize footer for tablets */
+    footer {
+        height: 125px;
+    }
+
     /* Increase width of elements for all sections */
     #about-us div {
         width: 85%;
@@ -526,6 +531,11 @@ footer li a {
     .form-container {
         flex-direction: column;
         padding: 15px;
+    }
+
+    /* Resize footer for mobiles */
+    footer {
+        height: 75px;
     }
 
     /* Resize media links, logo image and contact us button in footer for mobiles */

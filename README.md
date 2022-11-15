@@ -22,6 +22,8 @@ Developer: Carlos Felipe Capobianco Sandoli
         &emsp;2.4.2. **[Masterclass registration form](#242-masterclass-registration-form)**<br>
         &emsp;2.4.3. **[Newsletter registration form](#243-newsletter-registration-form)**<br>
         &emsp;2.4.4. **[Video section](#244-video-section)**<br>
+    2.5. **[Footer, Contact Us and Social Media links](#25-footer-contact-us-and-social-media-links)**<br>
+    2.6. **[Form Pages](#26-form-pages)**<br>
 3. **[Testing](#3-testing)**<br>
     3.1. **[HTML Validator](#31-html-validator)**<br>
     3.2. **[CSS Validator](#32-css-validator)**<br>
@@ -93,6 +95,8 @@ Jost font from Google fonts was used throughout the whole website with a fallbac
 
 # 2. Features
 
+The website consist on a main home page and 4 form pages for the website services.
+
 ## 2.1 Header, Nav, Logo and Favicon
 
 ## 2.2 About Us section
@@ -110,6 +114,8 @@ Jost font from Google fonts was used throughout the whole website with a fallbac
 ### 2.4.4 Video section
 
 ## 2.5 Footer, Contact Us and Social Media links
+
+## 2.6 Form Pages
 
 # 3. Testing
 

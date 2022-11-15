@@ -18,10 +18,6 @@ Developer: Carlos Felipe Capobianco Sandoli
     2.2. **[About Us section](#22-about-us-section)**<br>
     2.3. **[Information section](#23-information-section)**<br>
     2.4. **[Further Informaiton](#24-further-information)**<br>
-        &emsp;2.4.1. **[Come Stay With Us form](#241-come-stay-with-us-form)**<br>
-        &emsp;2.4.2. **[Masterclass registration form](#242-masterclass-registration-form)**<br>
-        &emsp;2.4.3. **[Newsletter registration form](#243-newsletter-registration-form)**<br>
-        &emsp;2.4.4. **[Video section](#244-video-section)**<br>
     2.5. **[Footer, Contact Us and Social Media links](#25-footer-contact-us-and-social-media-links)**<br>
     2.6. **[Form Pages](#26-form-pages)**<br>
 3. **[Testing](#3-testing)**<br>
@@ -100,23 +96,54 @@ The website consist on a main home page and 4 form pages for the website service
 
 ## 2.1 Header, Nav, Logo and Favicon
 
+The header is displayed in all pages, it contains a logo image, a title, a subtitle and a navigation menu. The navigation menu on the home page contains a link to all sections in the page. In the form pages it contains only a link back to the home page.
+
+In mobiles the subtitle was removed in order to reduce the size of the header.
+
+![Desktop Header](docs/features/desktop-header.png)
+![Mobile Header](docs/features/mobile-header.png)
+
 ## 2.2 About Us section
+
+The about us section defines the purpose of the website and explains what drove the site owner to create the website.
+
+![About Us](docs/features/about-us.png)
 
 ## 2.3 Information section
 
+"Why Agroforestry" is an information section, where the user can understand why we believe the subject of the website is important. It contains relevant information about agriculture in Brazil, which is the country where the project was first idealized.
+
+![Why Agroforestry?](docs/features/why-agroforestry.png)
+
 ## 2.4 Further information
 
-### 2.4.1 Come Stay With Us form
+The third section of the home page is where the user can find what are the services the website provides. The section is divided in three parts, each with a link to a form for registering the users interest and a short description of what is offered.
 
-### 2.4.2 Masterclass registration form
+In desktops, this section was designed to contain the three sections aligned horizontaly with the link to the form at the top. For mobiles, a structure similar to the "Why Agroforestry" section was used with the links set to the left of the text description.
 
-### 2.4.3 Newsletter registration form
+At the bottom of the section, an informative video was added for the user to understand more about the topic.
 
-### 2.4.4 Video section
+Future features of this section could include incrementing the complexity of the booking system, adding payment methods and more information about the masterclasses.
+
+![Desktop Know More](docs/features/desktop-know-more.png)
+![Mobile Know More](docs/features/mobile-know-more.png)
 
 ## 2.5 Footer, Contact Us and Social Media links
 
+The footer containes a link to the contact us form, where the user can send the site owner a feedback or request any aditional information they might need. The user can also find links the social medias. At present the links take the users to the home page of the social media platforms as the website still doesn't have any social media profiles.
+
+The logo image was added to the footer to keep the overall design balanced.
+
+![Footer](docs/features/footer.png)
+
 ## 2.6 Form Pages
+
+All forms follow the same structure, with a heading on the left and the form on the right. The contact us form also contain a short paragraph below the heading. The forms only differ from one another in the inputs.
+
+In mobiles the form was restructured so the heading and paragraph, when present, to be at the top of the form.
+
+![Desktop Form](docs/features/desktop-form.png)
+![Mobile Form](docs/features/mobile-form.png)
 
 # 3. Testing
 

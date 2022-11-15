@@ -32,6 +32,7 @@ Developer: Carlos Felipe Capobianco Sandoli
 5. **[Credits](#5-credits)**<br>
     5.1. **[Why Agroforestry Section Information](#51-why-agroforestry-section-information)**<br>
     5.2. **[Flexbox Tutorial](#52-flexbox-tutorial)**<br>
+    5.3. **[Media](#53-media)**<br>
 
 # 1. Project Overview
 
@@ -171,7 +172,7 @@ You can see the GitHub repository by clicking [here](https://github.com/felipesa
 
 # 5. Credits
 
-## 5.1 Why Agroforestry Section Information
+## 5.1. Why Agroforestry Section Information
 
 The following sources were used to gather information for the Why Agroforestry section:
 
@@ -180,8 +181,17 @@ The following sources were used to gather information for the Why Agroforestry s
 [https://www.worldagroforestry.org/...](https://www.worldagroforestry.org/about/agroforestry)<br>
 [https://www.soilassociation.org/...](https://www.soilassociation.org/farmers-growers/technicalinformation/agroforestry-on-your-farm/agroforestry-and-farm-woodland-e-learning/)<br>
 
-## 5.2 Flexbox Tutorial
+## 5.2. Flexbox Tutorial
 
 The following tutorial was used to position the elements using flexbox:
 
 [https://css-tricks.com/...](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## 5.3. Media
+
+The media used in the website:
+
+- [Favicon](assets/images/favicon.ico): Edited from Royalty Free image taken from [Rawpixel](https://www.rawpixel.com/image/6233525/png-sticker-tree)
+- [Forest in About Us section](assets/images/forest.avif): Photo by: Imat Bagja Gumilar taken from [Unsplash](https://unsplash.com/photos/jwTvCQQJXh0)
+- [Logo Image](assets/images/tree-logo-solid.avif): Edited from Royalty Free image taken from [Rawpixel](https://www.rawpixel.com/image/6233525/png-sticker-tree)
+- [Video in Know more section](https://www.youtube.com/watch?v=iO0ycMkr8lo): Created by [Regenerative Films](https://www.youtube.com/c/RegenerativeFilms)

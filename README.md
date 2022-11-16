@@ -193,6 +193,20 @@ Lighthouse was used to test the website performance reaching a score of 93.
 
 ## 3.5. Manual Testing User Stories
 
+| User Story | Testing |
+| ---------- | ------- |
+| As a first time user I want to know what the website is about | Clickin on the about us navigation link or scrolling down wil take the user to the about us section where they will find the information |
+| As a first time user I want to know how I can learn more about agroforestry | Clicking on the Want to know more? navigation link or scrolling further down will take the user to the corresponding section where they will find out options to learn more about agroforestry |
+| As a first time user I want to know what is offered | Again in the want to know more section, the user can see what is offered in the website. In addition the user can click on the contact us button in the footer of the page, which will take them to a form where they can send a message requesting further information |
+| As a first time user I want to check out the company social media profiles | The user can find links to the social media in the footer in any page of the website |
+| As a returning user I want to subscribe to the newsletter | Going to the want to know more section and clicking in the join our newsletter link will take the user to a form, which they can complete to be registered |
+| As a returning user I want to book a stay | Again in the want to know more section, the user can click in the come stay with us section that will take the user to a form to book a stay |
+| As a returning user I want to register my interest in joining a masterclass | Clicking in the Interested in a masterclass link in the want to know more section will take the user to another form, here they can select which topic is of their interest before submitting the form |
+| As a site owner I want to promote sustainable farming practices | This objective is stated in the about us section and can be realized by the services provided in the want to know more section. Also in the Why agroforestry section, it is displayed some information about why this is important |
+| As a site owner I want to provide more information about agroforestry | This is displayed in the Why agroforestry section as well as in the video in the know more section. The user can also book a stay, join a masterclass our a newsletter by filling the respective forms to find out more about the topic |
+| As a site owner I want to provide a way to our users to book a stay at our farm | This is possible through the come stay with us form. The user can also send a question through the contact us form, in case they need any additional information |
+
+
 ## 3.6. Bugs and Fixes
 
 Some bugs that were found and fixed throughout development:

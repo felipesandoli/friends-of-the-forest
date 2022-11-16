@@ -266,7 +266,7 @@ footer li a {
     font-size: 150%;
 }
 
-/* Contact Us form */
+/* Forms */
 
 .form-section {
     background: var(--white-green);
@@ -284,9 +284,14 @@ footer li a {
     align-items: center;
 }
 
+.form-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .form-container h2 {
     text-align: center;
-    padding: 15px;
     text-transform: uppercase;
     letter-spacing: 5px;
     max-width: 300px;

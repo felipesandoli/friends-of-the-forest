@@ -444,6 +444,30 @@ footer li a {
     }
 }
 
+/* 404 page */
+
+.error-page {
+    color: var(--dark-green);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error-page img {
+    height: 75px;
+    width: 75px;
+    padding: 25px;
+}
+
+.error-page h1 {
+    font-size: 300%;
+    padding: 15px;
+}
+
+.error-page h3 {
+    font-size: 80%;
+}
+
 /* For screen sizes smaller than 800px wide */
 
 @media screen and (max-width: 800px) {

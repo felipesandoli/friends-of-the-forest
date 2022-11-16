@@ -187,6 +187,10 @@ Wave Accessibility Validator was used to ensure the website was up to the standa
 
 ## 3.4. Lighthouse
 
+Lighthouse was used to test the website performance reaching a score of 93.
+
+![Lighthouse Performance Validation](docs/validation/lighthouse.png)
+
 ## 3.5. Manual Testing User Stories
 
 ## 3.6. Bugs and Fixes

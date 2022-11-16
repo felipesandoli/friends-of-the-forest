@@ -255,6 +255,17 @@ footer img {
     color: var(--white-green);
 }
 
+footer div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer p {
+    font-size: 75%;
+    color: var(--white-green);
+}
+
 footer li {
     display: inline;
     padding: 15px;
